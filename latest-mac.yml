@@ -1,0 +1,11 @@
+version: 1.1.9
+files:
+  - url: Smoothcomp-1.1.9-mac.zip
+    sha512: a6PJay19MuzRjLMsp8QOw0AobNmVs6Aigk6XC7GLIDPmlijNMyioxNIi1vWboWvWwLUCjwmuiZsf7NHdOXoXzg==
+    size: 94899149
+  - url: Smoothcomp-1.1.9.dmg
+    sha512: 553Z+HBkCyYoCmumkgMl8ZK9dLtzNGY6dtZQCcZnngDwKXp2YsCq49QSqAKYp9yDFA48N1D8CHaOxtS3daUueA==
+    size: 99374385
+path: Smoothcomp-1.1.9-mac.zip
+sha512: a6PJay19MuzRjLMsp8QOw0AobNmVs6Aigk6XC7GLIDPmlijNMyioxNIi1vWboWvWwLUCjwmuiZsf7NHdOXoXzg==
+releaseDate: '2022-02-17T18:36:13.573Z'
